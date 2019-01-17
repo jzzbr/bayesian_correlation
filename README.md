@@ -1,2 +1,4 @@
 # bayesian_correlation
-A small script to estimate Bayesian correlations (bivariate normal model), using pymc3. 
+A small script to estimate Bayesian correlations (bivariate normal model), using pymc3.
+
+TODO: Readme
